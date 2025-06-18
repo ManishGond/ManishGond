@@ -42,7 +42,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishgond&layout=compact&theme=tokyonight" alt="Top Languages" width="600" height="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishgond&layout=compact&theme=tokyonight" alt="Top Languages" width="400" height="300" />
 </p>
 
 ### 🚀 Projects Showcase
