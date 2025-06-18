@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full+Stack+Development+in+Progress+%F0%9F%9A%80;React+%7C+Node.js+%7C+AI%2FML+%7C+Business+Apps" alt="Typing SVG" />
 </p>
 
----
+
 
 ### 🔥 About Me
 - 💼 **Actively seeking Full Stack Developer opportunities**
@@ -16,6 +16,8 @@
 - 🎯 Goal: Deliver scalable, performant, and maintainable software solutions
 
 ---
+---
+
 
 ### 🛠️ Tech Stack
 
@@ -39,6 +41,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishgond&layout=compact&theme=tokyonight" alt="Top Languages" width="600" height="300" />
+</p>
+
 ### 🚀 Projects Showcase
 
 | Project | Tech Stack | Description |
@@ -57,7 +63,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishgond&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishgond&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
