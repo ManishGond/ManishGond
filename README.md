@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
-<h3 align="center">🎧 Full-Stack Developer | 🎹 Music Producer | 🔍 AI Explorer</h3>
+<h3 align="center">⚡ Full-Stack Developer | 🔍 AI/ML Enthusiast | 🏗️ Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+build+cool+apps+%F0%9F%9A%80;React+Native+%7C+Node.js+%7C+ML+%7C+Music+Tech+%F0%9F%8E%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full+Stack+Development+in+Progress+%F0%9F%9A%80;React+%7C+Node.js+%7C+AI%2FML+%7C+Business+Apps" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🔥 About Me
-- 💼 Working as a **Microsoft Business Central Developer**
-- 🎧 I also make **EDM / Progressive House music**
-- 🚀 Building **React Native apps** and **AI-powered tools**
-- 🧠 Always learning **ML, Full-Stack, Music Tech**
-- 🎯 Goal: Combine music + tech into innovative products
+- 💼 **Actively seeking Full Stack Developer opportunities**
+- 🏢 Experience as a **Microsoft Business Central (D365) Developer** (AL Language, SOAP APIs)
+- 🚀 Building production-grade **React + Node.js applications**
+- 🤖 Exploring **AI/ML integration** into real-world business apps
+- 🧠 Currently leveling up in **Full-Stack Engineering, System Design, and Cloud Deployment**
+- 🎯 Goal: Deliver scalable, performant, and maintainable software solutions
 
 ---
 
@@ -22,35 +23,37 @@
 `JavaScript` `TypeScript` `Python` `SQL` `AL (Business Central)`
 
 **Frontend:**  
-`React` `React Native` `Next.js` `HTML` `CSS` `Tailwind`
+`React` `React Native` `Next.js` `HTML` `CSS` `Tailwind CSS`
 
-**Backend & DB:**  
-`Node.js` `Express.js` `MongoDB` `Firebase` `MySQL`
+**Backend & Databases:**  
+`Node.js` `Express.js` `MongoDB` `MySQL` `Firebase`
 
-**AI/ML:**  
-`Python` `Scikit-learn` `TensorFlow` `OpenAI API`  
-`Music ML tools (Spleeter, Librosa, etc.)`
+**AI/ML & Data:**  
+`Python` `Scikit-learn` `TensorFlow` `Pandas` `OpenAI API`
+
+**ERP & Business Applications:**  
+`Dynamics 365 Business Central` (AL Language, SOAP/REST APIs)
 
 **Tools & Platforms:**  
-`VS Code` `GitHub` `Figma` `Postman` `FL Studio` `Ableton` `Linux` `Railway` `Vercel`
+`VS Code` `GitHub` `Postman` `Figma` `Linux` `Railway` `Vercel` `Swagger`
 
 ---
 
 ### 🚀 Projects Showcase
 
-| Project | Tech | Description |
+| Project | Tech Stack | Description |
 |--------|------|-------------|
-| 🎵 **Audivine** | React Native + Node.js + AI | A Shazam-style app for music recognition and stem separation |
-| 📱 **Namma Metro App** | React Native + Firebase | Real-time metro tracking with ETA and route finder |
-| 🎹 **MIDI Piano App** | React Native + Bluetooth MIDI | Play and connect to FL Studio or any DAW |
-| 🌐 **Portfolio Website** | Next.js + Tailwind CSS | Personal portfolio & resume in one site |
+| 💬 **DevConnect** *(In Progress)* | React + Redux Toolkit + Node.js + MySQL + Prisma | Full-stack social platform with profiles, posts, authentication & infinite scroll |
+| 📱 **Namma Metro App** | React Native + Firebase | Real-time metro tracking with ETA and route optimization |
+| 🌐 **Portfolio Website** | Next.js + Tailwind CSS | Personal responsive portfolio with project & resume showcase |
+| 📦 **BC Python Integration** | Python + Business Central + SOAP API | ML-powered sales prediction service integrated with Microsoft BC |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manishgond&show_icons=true&theme=tokyonight" alt="Maxin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manishgond&show_icons=true&theme=tokyonight" alt="Manish's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -62,14 +65,13 @@
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/maxin-manish/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/maxingarrix" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:maxin.garrix@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://open.spotify.com/artist/your-spotify-id" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/manishgond/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/manishgond" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:manish.n.gond@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  🧠 *Code Hard, Play Loud*
+  🏗️ *Building products that solve real problems.*
 </p>
