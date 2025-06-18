@@ -2,7 +2,7 @@
 <h3 align="center">⚡ Full-Stack Developer | 🔍 AI/ML Enthusiast | 🏗️ Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Welcome+to+my+GitHub!;Full+Stack+Dev+in+Progress+🚀;React+%7C+Node.js+%7C+AI%2FML+%7C+Business+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=33c5ff&lines=Welcome+to+my+GitHub+Page!;Full+Stack+Dev+in+Progress+🚀;React+%7C+Node.js+%7C+AI%2FML+%7C+Business+Apps" alt="Typing SVG" />
 </p>
 
 
