@@ -7,7 +7,7 @@
 
 
 ### 🔥 About Me
-- 💼 **Actively seeking Full Stack Developer opportunities**
+- 💼 **Actively seeking Full Stack | Frontend | Backend Developer opportunities**
 - 🏢 Experience as a **Microsoft Business Central (D365) Developer** (AL Language, SOAP APIs)
 - 🚀 Building production-grade **React + Node.js applications**
 - 🤖 Exploring **AI/ML integration** into real-world business apps
