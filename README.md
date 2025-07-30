@@ -46,19 +46,18 @@
 
 ### 🚀 Projects Showcase
 
-| Project | Tech Stack | Description |
-|--------|------|-------------|
-| 💬 **DevConnect** *(In Progress)* | React + Redux Toolkit + Node.js + MySQL + Prisma | Full-stack social platform with profiles, posts, authentication & infinite scroll |
-| 📱 **Namma Metro App** | React Native + Firebase | Real-time metro tracking with ETA and route optimization |
-| 🌐 **Portfolio Website** | Next.js + Tailwind CSS | Personal responsive portfolio with project & resume showcase |
-| 📦 **BC Python Integration** | Python + Business Central + SOAP API | ML-powered sales prediction service integrated with Microsoft BC |
+| 🚀 **Project**                        | 🛠️ **Tech Stack**                                                          | 📄 **Description**                                                                                                                       |
+| ------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 🎥 **Twindle** *(Active)*             | React + Redux Toolkit + Node.js + Prisma + MongoDB + Cloudinary + Socket.IO | A short-form video platform with vertical swipe UI, real-time group chat, curated content, and role-based access (creator/curator/admin) |
+| 🔐 **AuthFlowPro** *(Active)*    | React + Redux + Express + Prisma + ReCAPTCHA + JWT                          | Secure and scalable authentication system with role-based access, session persistence, and modern UI                                     |
+| 🌐 **Portfolio Website** *(Active)* | Next.js + Tailwind CSS + Three.js                                           | Personal interactive 3D portfolio with animated sections, project showcases, and resume download                                         |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manishgond&show_icons=true&theme=tokyonight" alt="Manish's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manishgond&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -66,13 +65,14 @@
 </p>
 
 ---
-
 ### 📫 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/manishgond/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/manishgond" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://twitter.com/musicbymaxin" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="mailto:manish.n.gond@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/musicbymaxin" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@musicbyMaxin" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
